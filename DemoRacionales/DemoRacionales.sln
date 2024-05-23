@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoRacionales", "DemoRacionales.csproj", "{1968E08D-8077-4434-A675-73481C5606D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosRacionales.Mode", "..\NumerosRacionales.Mode\NumerosRacionales.Mode.csproj", "{22AA4240-34D9-4BFC-A65A-65F0BA09E052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1968E08D-8077-4434-A675-73481C5606D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1968E08D-8077-4434-A675-73481C5606D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1968E08D-8077-4434-A675-73481C5606D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1968E08D-8077-4434-A675-73481C5606D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22AA4240-34D9-4BFC-A65A-65F0BA09E052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22AA4240-34D9-4BFC-A65A-65F0BA09E052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22AA4240-34D9-4BFC-A65A-65F0BA09E052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22AA4240-34D9-4BFC-A65A-65F0BA09E052}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D0D18E3-D33A-439E-A7D6-134D555170A4}
+	EndGlobalSection
+EndGlobal
